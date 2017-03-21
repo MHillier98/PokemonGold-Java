@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=NPC
+comment0.text=\r\n\ The\ NPC\ class,\ to\ allow\ NPC's\ in\ the\ GameWorld.\r\n\ \r\n\ @author\ Matthew\ Hillier\r\n\ @version\ 1.0\r\n
+comment1.params=imageID\ directionsID\ npcMessage
+comment1.target=NPC(int,\ int,\ java.lang.String)
+comment1.text=\r\n\ Creates\ a\ new\ NPC.\r\n\ @param\ imageID\ The\ NPC's\ image\ id.\r\n\ @param\ directionsID\ The\ NPC's\ direction\ id.\r\n\ @param\ npcMessage\ The\ NPC's\ message.\r\n
+comment2.params=imageID\ directionsID\ npcMessage\ newFunction\ newID
+comment2.target=NPC(int,\ int,\ java.lang.String,\ java.lang.String,\ int)
+comment2.text=\r\n\ Creates\ an\ NPC\ with\ a\ function.\r\n\ @param\ imageID\ The\ NPC's\ image\ id.\r\n\ @param\ directionsID\ The\ NPC's\ direction\ id.\r\n\ @param\ npcMessage\ The\ NPC's\ message.\r\n\ @param\ newFunction\ The\ NPC's\ function.\r\n\ @param\ newID\ The\ NPC's\ ID.\r\n
+comment3.params=imageID\ directionsID\ npcMessage
+comment3.target=void\ npcInit(int,\ int,\ java.lang.String)
+comment3.text=\r\n\ Initialises\ the\ NPC.\r\n\ @param\ imageID\ The\ NPC's\ image\ id.\r\n\ @param\ directionsID\ The\ NPC's\ direction\ id.\r\n\ @param\ npcMessage\ The\ NPC's\ message.\r\n
+comment4.params=
+comment4.target=void\ act()
+comment4.text=\r\n\ The\ act\ method\ of\ the\ NPC.\r\n\ \r\n\ This\ makes\ it\ move\ and\ animate.\r\n
+comment5.params=
+comment5.target=void\ updateImage()
+comment5.text=\r\n\ Updates\ the\ NPC's\ image.\r\n
+numComments=6

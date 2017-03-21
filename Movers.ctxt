@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Movers
+comment0.text=\r\n\ The\ Mover\ class,\ to\ both\ organise\ movers\ in\ the\ GameWorld,\ as\ well\ as\ provide\ some\ common\ variables\ between\ all\ movers.\r\n\ \r\n\ @author\ Matthew\ Hillier\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=java.lang.String\ getType()
+comment1.text=\r\n\ Returns\ the\ mover's\ type.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getMsg()
+comment2.text=\r\n\ Returns\ the\ mover's\ message.\r\n
+comment3.params=
+comment3.target=java.lang.String\ getFunction()
+comment3.text=\r\n\ Returns\ the\ mover's\ function.\r\n
+comment4.params=
+comment4.target=int\ getID()
+comment4.text=\r\n\ Returns\ the\ mover's\ id.\r\n
+numComments=5

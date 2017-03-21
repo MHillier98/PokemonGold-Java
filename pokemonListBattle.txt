@@ -1,0 +1,6 @@
+name, level, gender, currentHealth
+Rattata, 4, false, 9999
+Caterpie, 3, true, 9999
+Pidgey, 7, false, 9999
+Pidgey, 7, false, 9999
+Pidgeotto, 9, false, 9999

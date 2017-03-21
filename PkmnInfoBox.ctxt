@@ -1,0 +1,22 @@
+#BlueJ class context
+comment0.target=PkmnInfoBox
+comment0.text=\r\n\ The\ PkmnInfoBox\ class,\ to\ display\ Pokemon's\ stats\ while\ in\ a\ battle.\r\n\ \r\n\ @author\ Matthew\ Hillier\r\n\ @version\ 1.0\r\n
+comment1.params=newBoxName
+comment1.target=PkmnInfoBox(java.lang.String)
+comment1.text=\r\n\ Creates\ a\ new\ PkmnInfoBox.\r\n\ @param\ newBoxName\ The\ name\ of\ the\ box.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ The\ act\ method\ of\ the\ box.\r\n\ \r\n\ Updates\ the\ image\ when\ possible.\r\n
+comment3.params=
+comment3.target=void\ drawAll()
+comment3.text=\r\n\ Draws\ the\ information.\r\n
+comment4.params=level\ gender
+comment4.target=void\ drawStatsPkmnInfo(int,\ boolean)
+comment4.text=\r\n\ Draws\ the\ Pokemon's\ level\ and\ gender.\r\n\ @param\ level\ The\ Pokemon's\ level.\r\n\ @param\ gender\ The\ Pokemon's\ gender.\r\n
+comment5.params=currentHp\ maxHp
+comment5.target=void\ drawHpPkmnInfo(int,\ int)
+comment5.text=\r\n\ Draws\ the\ Pokemon's\ health.\r\n\ @param\ currentHp\ The\ Pokemon's\ current\ health.\r\n\ @param\ maxHp\ The\ Pokemon's\ max\ health.\r\n
+comment6.params=
+comment6.target=void\ toggleCanUpdate()
+comment6.text=\r\n\ Toggles\ whether\ or\ not\ the\ box\ can\ update.\r\n
+numComments=7

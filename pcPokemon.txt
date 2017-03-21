@@ -1,0 +1,1 @@
+Name, Level, Gender, CurrentHp, CurrentXp, Moves 1-4, MovePP 1-4

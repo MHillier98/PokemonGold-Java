@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=WorldBlock
+comment0.text=\r\n\ The\ WorldBlock\ class\ to\ make\ solid\ blocks\ in\ the\ GameWorld.\r\n\ \r\n\ @author\ Matthew\ Hillier\r\n\ @version\ 1.0\r\n
+comment1.params=inBlockName\ tileSetNum\ inWorldX\ inWorldY
+comment1.target=WorldBlock(java.lang.String,\ int,\ int,\ int)
+comment1.text=\r\n\ Creates\ a\ new\ WorldBlock.\r\n\ @param\ inBlockName\ The\ name\ of\ the\ block.\r\n\ @param\ tileSetNum\ The\ tileSet\ id.\r\n\ @param\ inWorldX\ The\ X\ coordinate\ in\ the\ world.\r\n\ @param\ inWorldY\ The\ Y\ coordinate\ in\ the\ world.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getBlockName()
+comment2.text=\r\n\ Returns\ the\ name\ of\ the\ block.\r\n
+numComments=3

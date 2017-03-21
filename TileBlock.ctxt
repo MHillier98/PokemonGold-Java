@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=TileBlock
+comment0.text=\r\n\ The\ TileBlock\ class,\ to\ allow\ tiles\ that\ cannot\ be\ passed\ through\ in\ the\ GameWorld.\r\n\ \r\n\ @author\ Matthew\ Hillier\r\n\ @version\ 1.0\r\n
+comment1.params=inName\ inSheetX\ inSheetY\ inType\ tileSetNum\ inWorldX\ inWorldY
+comment1.target=TileBlock(java.lang.String,\ int,\ int,\ java.lang.String,\ int,\ int,\ int)
+comment1.text=\r\n\ Creates\ a\ new\ TileBlock.\r\n\ @param\ inName\ The\ door's\ name.\r\n\ @param\ inSheetX\ The\ image's\ X\ coordinate.\r\n\ @param\ inSheetY\ The\ image's\ Y\ coordinate.\r\n\ @param\ inType\ The\ Block's\ type.\r\n\ @param\ tileSetNum\ The\ tileSet\ id.\ \r\n\ @param\ inWorldX\ The\ X\ coordinate\ in\ the\ world.\r\n\ @param\ inWorldY\ The\ Y\ coordinate\ in\ the\ world.\r\n
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ Called\ when\ added\ to\ the\ world.\r\n\ \r\n\ Overrides\ the\ default\ addedToWorld(World\ world).\r\n\ @param\ world\ The\ world\ it\ has\ been\ added\ to.\r\n
+comment3.params=
+comment3.target=void\ signAct()
+comment3.text=\r\n\ Assigns\ a\ message\ to\ a\ sign.\r\n
+comment4.params=
+comment4.target=java.lang.String\ getName()
+comment4.text=\r\n\ Returns\ the\ name\ of\ the\ TileBlock.\r\n
+numComments=5

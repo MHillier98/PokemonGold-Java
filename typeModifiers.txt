@@ -1,0 +1,27 @@
+Attacker type, Defender type, modifier
+Normal, Ghost, 0.0
+Fire, Fire, 0.5
+Fire, Water, 0.5
+Fire, Grass, 2.0
+Fire, Bug, 2.0
+Water, Fire, 2.0
+Water, Water, 0.5
+Water, Grass, 0.5
+Grass, Fire, 0.5
+Grass, Water, 2.0
+Grass, Grass, 0.5
+Grass, Poison, 0.5
+Grass, Flying, 0.5
+Grass, Bug, 0.5
+Poison, Grass, 2.0
+Poison, Poison, 0.5
+Poison, Ghost, 0.5
+Flying, Grass, 2.0
+Flying, Bug, 2.0
+Bug, Fire, 0.5
+Bug, Grass, 2.0
+Bug, Poison, 0.5
+Bug, Flying, 0.5
+Bug, Ghost, 0.5
+Ghost, Normal, 0.0
+Ghost, Ghost, 2.0

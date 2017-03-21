@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Blackout
+comment0.text=\r\n\ The\ Blackout\ class,\ to\ cover\ the\ screen\ during\ world\ transitions.\r\n\ \r\n\ @author\ Matthew\ Hillier\r\n\ @version\ 1.0\r\n
+comment1.params=inType
+comment1.target=Blackout(java.lang.String)
+comment1.text=\r\n\ Creates\ a\ new\ blackout\ to\ cover\ the\ screen.\r\n\ @param\ inType\ The\ type\ of\ blackout.\r\n
+comment2.params=world
+comment2.target=void\ addedToWorld(greenfoot.World)
+comment2.text=\r\n\ Called\ when\ added\ to\ the\ world.\r\n\ \r\n\ Overrides\ the\ default\ addedToWorld(World\ world).\r\n\ @param\ world\ The\ world\ it\ has\ been\ added\ to.\r\n
+numComments=3

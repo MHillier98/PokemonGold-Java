@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=StatCalculator
+comment0.text=\r\n\ The\ battle\ world\ of\ the\ game.\r\n\ \r\n\ @author\ Matthew\ Hillier\r\n\ @version\ 1.0\r\n
+comment1.params=name\ level
+comment1.target=int\ maxHealthCalc(java.lang.String,\ int)
+comment1.text=\r\n\ Calculates\ the\ max\ health\ of\ a\ Pokemon.\r\n\ @param\ name\ The\ name\ of\ the\ Pokemon.\r\n\ @param\ level\ The\ level\ of\ the\ Pokemon.\r\n
+comment2.params=name\ level
+comment2.target=int[]\ generalStatsCalc(java.lang.String,\ int)
+comment2.text=\r\n\ Calculates\ the\ stats\ of\ a\ Pokemon.\r\n\ @param\ name\ The\ name\ of\ the\ Pokemon.\r\n\ @param\ level\ The\ level\ of\ the\ Pokemon.\r\n
+comment3.params=name
+comment3.target=java.lang.String[]\ determineType(java.lang.String)
+comment3.text=\r\n\ Determines\ the\ type\ of\ a\ Pokemon.\r\n\ @param\ name\ The\ name\ of\ the\ Pokemon.\r\n
+comment4.params=name\ level
+comment4.target=int\ experienceGainCalc(java.lang.String,\ int)
+comment4.text=\r\n\ Calculates\ how\ much\ EXP\ a\ Pokemon\ should\ gain.\r\n\ @param\ name\ The\ name\ of\ the\ Pokemon.\r\n\ @param\ level\ The\ level\ of\ the\ Pokemon.\r\n
+comment5.params=level
+comment5.target=int\ experienceToNextLevel(int)
+comment5.text=\r\n\ Calculates\ how\ much\ EXP\ is\ needed\ to\ get\ to\ the\ next\ level.\r\n\ @param\ The\ current\ level\ of\ the\ Pokemon.\r\n
+numComments=6

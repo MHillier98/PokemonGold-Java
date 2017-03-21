@@ -1,0 +1,41 @@
+Name, Type, Damage, Accuracy%, maxPP, Effect
+Bite, Dark, 60, 100, 25, -
+Confusion, Psychic, 50, 100, 25, -
+Constrict, Normal, 10, 100, 35, -
+Curse, ???, 15, 100, 10, -
+Defense Curl, Normal, 0, 100, 40, Defence+
+Ember, Fire, 40, 100, 25, -
+Focus Energy, Normal, 0, 100, 30, Attack+
+Foresight, Normal, 0, 100, 40, Attack+
+Fury Swipes, Normal, 18, 80, 15, Multi
+Growl, Normal, 0, 100, 40, Attack-
+Growth, Normal, 0, 100, 40, Defence+
+Gust, Flying, 40, 100, 35, -
+Harden, Normal, 0, 100, 30, Defence+
+Hyper Fang, Normal, 80, 90, 15, -
+Hypnosis, Psychic, 0, 60, 20, Defence-
+Leer, Normal, 0, 100, 30, Defence-
+Lick, Ghost, 20, 100, 30, -
+Mean Look, Normal, 0, 100, 5, Defence-
+Night Shade, Ghost, 0, 100, 15, Defence-
+Peck, Flying, 35, 100, 35, -
+Poison Sting, Poison, 15, 100, 35, -
+PoisonPowder, Poison, 15, 75, 35, -
+Quick Attack, Normal, 40, 100, 30, -
+Rage, Normal, 20, 100, 20, -
+Razor Leaf, Grass, 55, 95, 25, -
+Reflect, Psychic, 0, 100, 20, Attack-
+Sand-Attack, Ground, 0, 100, 15, Attack-
+Scary Face, Normal, 0, 90, 10, Defence-
+Scratch, Normal, 40, 100, 35, -
+Sleep Powder, Grass, 0, 75, 15, Defence-
+SmokeScreen, Normal, 0, 100, 20, Defence-
+Spite, Ghost, 0, 100, 10, Defence-
+String Shot, Bug, 0, 95, 40, Speed-
+Stun Spore, Grass, 10, 75, 30, -
+Supersonic, Normal, 15, 55, 20, -
+Tackle, Normal, 35, 95, 35, -
+Tail Whip, Normal, 0, 100, 30, Defence-
+Vine Whip, Grass, 35, 100, 10, -
+Water Gun, Water, 40, 100, 25, -
+Wrap, Normal, 15, 85, 20, Multi

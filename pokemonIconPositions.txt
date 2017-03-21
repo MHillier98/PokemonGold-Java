@@ -1,0 +1,38 @@
+Bulbasaur, Ivysaur, Venusaur
+Charmander, Charmeleon
+Charizard, Dragonite
+Squirtle, Wartortle, Blastoise
+Caterpie, Metapod, Weedle, Kakuna
+Butterfree, Venomoth
+Beedrill, Paras, Parasect, Venonat, Scyther, Pinsir, Ledyba, Ledian, Spinarak, Ariados, Yanma, Pineco, Foretress, Scizor, Shuckle, Heracross
+Pidgey, Pidgeotto, Pidgeot, Spearow, Fearow, Farfetch’d, Doduo, Dodrio, Aerodactyl, Articuno, Zapdos, Moltres, Hoothoot, Noctowl, Togetic, Natu, Xatu, Murkrow, Delibird, Skarmory
+Rattata, Raticate, Nidoran, Nidorina, Nidorino, Vulpix, Ninetales, Meowth, Persian, Growlithe, Arcanine, Eevee, Vaporeon, Jolteon, Flareon, Cyndaquil, Quilava, Typhlosion, Sentret, Furret, Espeon, Umbreon, Sneasel, Houndour, Houndoom, Raikou*, Entei*, Suicune*
+Ekans, Arbok, Onix, Dratini, Dragonair, Dunsparce, Steelix
+Pikachu, Raichu, Pichu
+Sandshrew, Sandslash, Nidoqueen, Nidoking, Psyduck, Golduck, Cubone, Marowak, Lickitung, Rhydon, Kangaskhan, Electabuzz, Magmar, Totodile, Crocanaw, Feraligatr, Ampharos, Aipom, Snubbull, Granbull, Teddiursa, Ursaring, Smeargle, Larvitar, Pupitar, Tyranitar
+Clefairy, Clefable, Chansey, Cleffa, Togepi, Marill, Azumarill, Blissey
+Jigglypuff, Wigglytuff, Igglybuff	
+Zubat, Golbat, Crobat, Gligar
+Oddish, Gloom, Vileplume, Bellsprout, Weepinbell, Victreebel, Exeggcute, Exeggutor, Tangela, Chikorita, Bayleef, Meganium, Bellossom, Hoppip, Skiploom, Jumpluff, Sunkern, Sunflora
+Diglett, Dugtrio
+Mankey, Primeape, Machop, Machoke, Machamp, Hitmonlee, Hitmonchan, Tyrogue, Hitmontop
+Poliwag, Poliwhirl, Poliwrath, Politoed
+Abra, Kadabra, Alakazam, Drowzee, Hypno, Mr. Mime, Jynx, Mewtwo, Mew, Smoochum, Elekid, Magby, Celebi
+Tentacool, Tentacruel, Chinchou, Octillery
+Geodude, Graveler, Golem
+Ponyta, Rapidash, Rhyhorn, Tauros, Mareep, Flaaffy, Girafarig, Swinub, Piloswine, Phanpy, Donphan, Stantler, Miltank
+Slowpoke, Slowbro, Slowking
+Magnemite, Magneton, Voltorb, Electrode, Porygon, Porygon2
+Seel, Dewgong, Lapras
+Grimer, Muk, Koffing, Weezing, Ditto, Slugma, Magcargo
+Shellder, Cloyster, Krabby, Kingler, Omanyte, Omastar, Kabuto, Kabutops, Corsola
+Gastly, Haunter, Gengar, Misdreavus, Wobbuffet
+Horsea, Seadra, Goldeen, Seaking, Magikarp, Lanturn, Wooper, Quagsire, Qwilfish, Remoraid, Mantine
+Staryu, Starmie
+Gyarados, Kingdra
+Snorlax	
+Sudowoodo
+Unown
+Lugia
+Ho-oh
+Egg

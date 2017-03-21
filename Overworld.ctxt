@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=Overworld
+comment0.text=\r\n\ The\ battle\ world\ of\ the\ game.\r\n\ \r\n\ @author\ Matthew\ Hillier\r\n\ @version\ 1.0\r\n
+comment1.params=cls
+comment1.target=boolean\ isObjectOn(java.lang.Class)
+comment1.text=\r\n\ Returns\ if\ there\ is\ an\ object\ of\ a\ certain\ class\ at\ the\ same\ location\ or\ not.\r\n\ @param\ cls\ The\ class\ to\ check\ for.\r\n
+comment2.params=cls
+comment2.target=boolean\ isObjectAbove(java.lang.Class)
+comment2.text=\r\n\ Returns\ if\ there\ is\ an\ object\ of\ a\ certain\ class\ above\ or\ not.\r\n\ @param\ cls\ The\ class\ to\ check\ for.\r\n
+comment3.params=cls
+comment3.target=boolean\ isObjectBelow(java.lang.Class)
+comment3.text=\r\n\ Returns\ if\ there\ is\ an\ object\ of\ a\ certain\ class\ below\ or\ not.\r\n\ @param\ cls\ The\ class\ to\ check\ for.\r\n
+comment4.params=cls
+comment4.target=boolean\ isObjectLeft(java.lang.Class)
+comment4.text=\r\n\ Returns\ if\ there\ is\ an\ object\ of\ a\ certain\ class\ left\ or\ not.\r\n\ @param\ cls\ The\ class\ to\ check\ for.\r\n
+comment5.params=cls
+comment5.target=boolean\ isObjectRight(java.lang.Class)
+comment5.text=\r\n\ Returns\ if\ there\ is\ an\ object\ of\ a\ certain\ class\ right\ or\ not.\r\n\ @param\ cls\ The\ class\ to\ check\ for.\r\n
+numComments=6

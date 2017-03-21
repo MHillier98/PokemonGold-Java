@@ -1,0 +1,2 @@
+World_Route_29, 050_004_Pidgey, 055_004_Rattata, 095_003_Sentret, 100_003_Hoothoot, -
+World_Route_30, 030_004_Caterpie, 045_005_Metapod, 075_004_Pidgey, 090_004_Hoothoot, 100_003_Spinarak, -

@@ -1,0 +1,1 @@
+GOLD, World_Full, 79, 104, World_NewBarkTown_PlayerHouse1, 9, 4

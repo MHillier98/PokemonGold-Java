@@ -1,0 +1,2 @@
+Name, Level, Gender, CurrentHp, CurrentXp, Moves 1-4, MovePP 1-4
+Name, 0, false, 0, 0, -, -, -, -, -, -, -, -

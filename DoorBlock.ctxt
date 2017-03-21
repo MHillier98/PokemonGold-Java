@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=DoorBlock
+comment0.text=\r\n\ The\ DoorBlock\ class,\ to\ make\ doors\ in\ the\ overworld.\r\n\ \r\n\ @author\ Matthew\ Hillier\r\n\ @version\ 1.0\r\n
+comment1.params=id\ imageX\ imageY\ inWorldX\ inWorldY
+comment1.target=DoorBlock(java.lang.String,\ int,\ int,\ int,\ int)
+comment1.text=\r\n\ Creates\ a\ new\ Door.\r\n\ @param\ id\ The\ door's\ ID.\r\n\ @param\ imageX\ The\ image's\ X\ coordinate.\r\n\ @param\ imageY\ The\ image's\ Y\ coordinate.\r\n\ @param\ inWorldX\ The\ X\ coordinate\ in\ the\ world.\r\n\ @param\ inWorldY\ The\ Y\ coordinate\ in\ the\ world.\r\n
+comment2.params=
+comment2.target=java.lang.String\ getCoords()
+comment2.text=\r\n\ Returns\ the\ door's\ coordinates.\r\n
+numComments=3

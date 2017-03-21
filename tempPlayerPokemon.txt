@@ -1,0 +1,2 @@
+Name, Level, Gender, CurrentHp, CurrentXp, Moves 1-4, MovePP 1-4
+Cyndaquil, 5, false, 20, 0, Tackle, Leer, null, null, 34, 30, -, -

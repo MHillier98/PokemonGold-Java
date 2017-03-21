@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=Writer
+comment0.text=\r\n\ The\ Write\ class,\ to\ write\ to\ files.\r\n\ \r\n\ @author\ Matthew\ Hillier\r\n\ @version\ 1.0\r\n
+comment1.params=newFile\ oldFile
+comment1.target=void\ overwriteFile(java.lang.String,\ java.lang.String)
+comment1.text=\r\n\ Overwrites\ an\ old\ file\ with\ a\ new\ file.\r\n\ @param\ newFile\ The\ new\ file\ to\ write\ with.\r\n\ @param\ oldFile\ The\ old\ file\ to\ overwrite.\r\n
+numComments=2

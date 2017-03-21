@@ -1,0 +1,22 @@
+Chickorita, 01_Tackle, 01_Growl, 08_Razor Leaf, 12_Reflect
+Totodile, 01_Scratch, 01_Leer, 07_Rage, 13_Water Gun
+Cyndaquil, 01_Tackle, 01_Leer, 06_SmokeScreen, 12_Ember
+
+Pidgey, 01_Tackle, 05_Sand-Attack, 09_Gust, 15_Quick Attack
+Pidgeotto, 01_Tackle, 01_Gust, 05_Sand-Attack, 15_Quick Attack
+Rattata, 01_Tackle, 01_Tail Whip, 07_Quick Attack, 13_Hyper Fang
+Sentret, 01_Tackle, 05_Defense Curl, 11_Quick Attack, 17_Fury Swipes
+Hoothoot, 01_Tackle, 01_Growl, 06_Foresight, 11_Peck
+Caterpie, 01_Tackle, 01_String Shot
+Metapod, 01_Harden, 07_Harden
+Spinarak, 01_Poison Sting, 01_String Shot, 06_Constrict, 17_Night Shade
+
+?Quilava, 01_Tackle, 01_Leer, 01_SmokeScreen, 06_SmokeScreen, 12_Ember
+?Bayleef, 01_Tackle, 01_Growl, 01_Razor Leaf, 01_Reflect, 08_Razor Leaf, 12_Reflect, 15_PoisonPowder
+?Croconaw, 01_Scratch, 01_Leer, 01_Rage, 07_Rage, 13_Water Gun
+?Noctowl, 01_Tackle, 01_Growl, 01_Foresight, 01_Peck, 06_Foresight, 11_Peck, 16_Hypnosis
+?Raticate, 01_Tackle, 01_Tail Whip, 01_Quick Attack, 07_Quick Attack, 13_Hyper Fang, 20_Scary Face
+?Furret, 01_Scratch, 01_Defense Curl, 01_Quick Attack, 05_Defense Curl, 11_Quick Attack, 18_Fury Swipes
+?Bellsprout, 01_Vine Whip, 06_Growth, 11_Wrap, 15_Sleep Powder, 17_PoisonPowder, 19_Stun Spore
+?Butterfree, 01_Confusion, 10_Confusion, 13_PoisonPowder, 14_Stun Spore, 15_Sleep Powder, 18_Supersonic
+?Gastly, 01_Hypnosis, 01_Lick, 08_Spite, 13_Mean Look, 16_Curse

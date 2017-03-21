@@ -1,0 +1,25 @@
+#BlueJ class context
+comment0.target=Reader
+comment0.text=\r\n\ The\ battle\ world\ of\ the\ game.\r\n\ \r\n\ @author\ Matthew\ Hillier\r\n\ @version\ 1.0\r\n
+comment1.params=fileName\ lineNum\ lineIndex
+comment1.target=java.lang.String\ readStringFromFile(java.lang.String,\ int,\ int)
+comment1.text=\r\n\ Returns\ a\ string\ read\ from\ a\ file.\r\n\ @param\ fileName\ The\ name\ of\ the\ file\ to\ read\ from.\r\n\ @param\ lineNum\ The\ line\ of\ the\ file\ to\ read\ from.\r\n\ @param\ lineIndex\ The\ index\ of\ the\ line\ to\ read\ from.\r\n
+comment2.params=fileName\ lineNum\ lineIndex
+comment2.target=int\ readIntFromFile(java.lang.String,\ int,\ int)
+comment2.text=\r\n\ Returns\ an\ integer\ read\ from\ a\ file.\r\n\ @param\ fileName\ The\ name\ of\ the\ file\ to\ read\ from.\r\n\ @param\ lineNum\ The\ line\ of\ the\ file\ to\ read\ from.\r\n\ @param\ lineIndex\ The\ index\ of\ the\ line\ to\ read\ from.\r\n
+comment3.params=fileName\ lineNum\ lineIndex
+comment3.target=double\ readDoubleFromFile(java.lang.String,\ int,\ int)
+comment3.text=\r\n\ Returns\ a\ double\ read\ from\ a\ file.\r\n\ @param\ fileName\ The\ name\ of\ the\ file\ to\ read\ from.\r\n\ @param\ lineNum\ The\ line\ of\ the\ file\ to\ read\ from.\r\n\ @param\ lineIndex\ The\ index\ of\ the\ line\ to\ read\ from.\r\n
+comment4.params=fileName\ lineNum\ lineIndex
+comment4.target=boolean\ readBooleanFromFile(java.lang.String,\ int,\ int)
+comment4.text=\r\n\ Returns\ a\ boolean\ read\ from\ a\ file.\r\n\ @param\ fileName\ The\ name\ of\ the\ file\ to\ read\ from.\r\n\ @param\ lineNum\ The\ line\ of\ the\ file\ to\ read\ from.\r\n\ @param\ lineIndex\ The\ index\ of\ the\ line\ to\ read\ from.\r\n
+comment5.params=fileName
+comment5.target=int\ getFileLength(java.lang.String)
+comment5.text=\r\n\ Returns\ the\ length\ of\ a\ file.\r\n\ @param\ fileName\ The\ name\ of\ the\ file.\r\n
+comment6.params=pokemonName
+comment6.target=int\ getPokemonID(java.lang.String)
+comment6.text=\r\n\ Returns\ the\ ID\ of\ a\ Pokemon.\r\n\ @param\ pokemonName\ The\ name\ of\ the\ Pokemon.\r\n
+comment7.params=
+comment7.target=java.lang.String\ getDirectory()
+comment7.text=\r\n\ Returns\ the\ directory\ of\ the\ game.\r\n
+numComments=8

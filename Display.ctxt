@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Display
+comment0.text=\r\n\ The\ Display\ class,\ to\ display\ instructions\ to\ the\ player\ when\ they\ first\ start\ the\ game.\r\n\ \r\n\ @author\ Matthew\ Hillier\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Display()
+comment1.text=\r\n\ Simply\ displays\ the\ instruction\ screen.\r\n
+comment2.params=
+comment2.target=void\ act()
+comment2.text=\r\n\ Counts\ up,\ and\ then\ removes\ itself.\r\n
+numComments=3
